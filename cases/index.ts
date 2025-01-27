@@ -29,6 +29,8 @@ export const cases = [
   'sinclair-typebox-ahead-of-time',
   'sinclair-typebox-dynamic',
   'sinclair-typebox-just-in-time',
+  'sinclair-typemap-valibot-just-in-time',
+  'sinclair-typemap-zod-just-in-time',
   'spectypes',
   'succulent',
   'superstruct',
